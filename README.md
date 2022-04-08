@@ -32,18 +32,8 @@ VARIABLES required are:
 
 * `BOT_UN` - Username of yout Bot.
 
-# Deploy
 
-Deploy your bot on `heroku`
-  
-`Warning` - There are two different branches available, go to [public](github.com/vasusen-code/videoconvertor) branch if you need bot for your `channel`.
-  
-`Fork and Click on Deploy in your fork`
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
 
-`Alternate way:`
-
-If you are facing any problem while deploying through heroku button, just fork and `deploy manually` by creating a new app in heroku.
 
 Add these buildpacks if you are deploying manually (Read tutorial) : 
 
